@@ -1,0 +1,9 @@
+.valid:focus {
+    border-color: green;
+    border-width: 2px;
+  }
+
+  .invalid:focus {
+    border-color: red;
+    border-width: 2px;
+  }
